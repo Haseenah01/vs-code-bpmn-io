@@ -92,7 +92,7 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
-    "@vscode/codicons": "^0.0.33",
+    "@vscode/codicons": "^0.0.35",
     "bpmn-js": "^16.0.0",
     "bpmn-js-color-picker": "^0.6.1"
   }
